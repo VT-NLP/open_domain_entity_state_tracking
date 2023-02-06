@@ -1,0 +1,1338 @@
+cleanness of strainer was clean before and dirty afterwards	1
+cleanness of serving bowl was clean before and dirty afterwards	1
+shape of duct tape was elongated before and folded afterwards	1
+strawberry of strawberry was in container before and garnished on glass afterwards	1
+location of rhubarb was on the stove before and removed from heat afterwards	1
+cleanness of strainer was cleaner before and dirtier afterwards	1
+cleanness of towel was clean before and dirty afterwards	1
+composition of water surface was smooth before and bubbly afterwards	1
+state of tail was bare before and adorned afterwards	1
+location of cream cheese was in block before and in blender afterwards	1
+location of drinking glass was in the cabinet before and on the table afterwards	1
+location of money was in the customer's hand before and in the cashier's hand afterwards	1
+fullness of serving dish was emptier before and fuller afterwards	1
+shape of lemon was round before and half moon shaped afterwards	1
+state of boat was free before and securely tied afterwards	1
+orientation of old bolt was placed before and removed afterwards	1
+cleanness of blade was clean before and used afterwards	1
+moisture of wick was dry before and wet afterwards	1
+container of tv's hdmi input was empty before and full afterwards	1
+temperature of mixture was room temperature before and cold afterwards	1
+weight of container was light before and heavy afterwards	1
+cleanness of ketchup bottle was dirty before and clean afterwards	1
+location of vehicle was in the garage before and in the forest afterwards	1
+weight of the rose bush was heavier before and lighter afterwards	1
+availability of drink was unobtained before and obtained afterwards	1
+composition of rust was solid before and dissolved afterwards	1
+location of towel was laundry room before and in linen closet afterwards	1
+location of water was in hose before and in soil afterwards	1
+availability of living room was unmade before and created afterwards	1
+visibility of webbing was visible before and invisible afterwards	1
+color of the strip of elastic was less colorful before and more colorful afterwards	1
+location of juice was in lemon before and on faucet afterwards	1
+shape of elastic was straight before and rounded afterwards	1
+state of second coat was unapplied before and applied afterwards	1
+knowledge of paint base was unknown before and confirmed to be oil afterwards	1
+composition of cheese was whole before and shredded afterwards	1
+size of lemon was whole before and halved afterwards	1
+cleanness of floor was dirty before and clean afterwards	1
+placement of the blackboard eraser was outside of car before and now stored in car afterwards	1
+action of boat was still before and moving afterwards	1
+state of velveeta was solid before and melted afterwards	1
+state of thug was at 50% health before and is dead afterwards	1
+location of underpants was on the drawer before and on the floor afterwards	1
+moisture of sponge was dry before and wet afterwards	1
+location of pipe cleaner was on the ground before and on the other pipe cleaner afterwards	1
+state of clipping was attached before and removed afterwards	1
+weight of boat was lighter before and heavier afterwards	1
+size of pineapple was whole before and in pieces afterwards	1
+location of linseed oil was absent before and present afterwards	1
+completion of task was unfinished before and finished afterwards	1
+wetness of ketchup bottle was dry before and wet afterwards	1
+volume of oil was empty before and full afterwards	1
+accessibility of lid was off container before and on container afterwards	1
+cleanness of container was clean before and dirty afterwards	1
+location of strainer was on the counter top before and under the faucet afterwards	1
+cleanness of table was clear before and cluttered afterwards	1
+temperature of macaroni was cooler before and hotter afterwards	1
+state of lemon was whole before and cut afterwards	1
+orientation of tail was bare before and beaded afterwards	1
+state of plug was empty before and full afterwards	1
+cleanness of bolt was dirty before and cleaner afterwards	1
+orientation of bike was crooked before and straight afterwards	1
+temperature of bottle was room temperature before and cold afterwards	1
+cleanness of pan was clean before and dirty afterwards	1
+motion of person was standing before and walking afterwards	1
+shape of wire was on a roll before and in a wand shape afterwards	1
+cleanness of pie dish was clean before and dirty afterwards	1
+location of your fingers was closer to the tip before and now away from the tip afterwards	1
+knowledge of player was unselected before and selected afterwards	1
+location of knife was in the drawer before and cutting the velveeta afterwards	1
+temperature of mixture was cooler before and wamer afterwards	1
+weight of lemon was heavier before and lighter afterwards	1
+weight of the blender was heavier before and lighter afterwards	1
+texture of kitchen towel was smooth before and sticky afterwards	1
+location of salt was in the containter before and on the macaroni afterwards	1
+state of rucksack was plain before and camouflaged afterwards	1
+location of the extract was in a container before and in the blender afterwards	1
+cleanness of razor blade was clean before and dirtier afterwards	1
+fullness of eraser shelf at the store was more full before and more empty afterwards	1
+moisture of floor was wet before and dry afterwards	1
+location of eraser was in the glovebox before and on the windshield afterwards	1
+wetness of cloves was dry before and wet afterwards	1
+moisture of soil was dry before and damp afterwards	1
+state of goku was unselected before and selected afterwards	1
+cleanness of clothing was dirty before and clean afterwards	1
+composition of lamp was wicked before and wickless afterwards	1
+location of mixture was in bowl before and on baking sheet afterwards	1
+temperature of pan was cooler before and hotter afterwards	1
+location of eraser was in hand before and on linoleum afterwards	1
+texture of wood was smooth before and sticky afterwards	1
+cost of plant was for sale at nursery before and purchased from nursery afterwards	1
+state of leaves was growing before and picked afterwards	1
+placement of aluminum foil was outside of bowl before and now inside of bowl afterwards	1
+moisture of paint was dry before and wet afterwards	1
+moisture of window was wet before and dry afterwards	1
+volume of freezer was empty before and full afterwards	1
+cleanness of blender was clean before and covered in pineapple afterwards	1
+ownership of eraser was in the store before and owned afterwards	1
+composition of fairy house frame was stand-alone before and fortified afterwards	1
+status of pestle was idle before and used afterwards	1
+weight of bowl was heavy before and light afterwards	1
+movement of bicycle was moving before and stopped afterwards	1
+shape of paper was flat before and folded afterwards	1
+electric conductivity of stove was off before and on afterwards	1
+state of underpants was whole before and cut up afterwards	1
+fullness of bowl was empty before and full of potato peels afterwards	1
+location of glass cleaner was in the bottle before and on the window afterwards	1
+emptiness of hand was empty before and holding towel afterwards	1
+location of mixture was in the slow cooker before and in the mug afterwards	1
+step of vulpix was unhad before and had afterwards	1
+location of rubber band was around the asparagus before and discarded afterwards	1
+location of mixture was in bowl before and in air tight container afterwards	1
+color of floor was black marked before and yellow afterwards	1
+ease of release of chocolate was hard to release from molds before and easy to release from molds afterwards	1
+location of bare wood was absent before and present afterwards	1
+location of vinegar was in container before and in wick afterwards	1
+state of onion was raw before and cooked afterwards	1
+emptiness of pan was empty before and holding the batter afterwards	1
+wetness of container was dry before and wet afterwards	1
+volume of pie dish was empty before and covered in pastry afterwards	1
+moisture of bucket was dry before and wet afterwards	1
+state of water was liquid before and steam afterwards	1
+wetness of clipping was dry before and moister afterwards	1
+container of blender was full before and empty afterwards	1
+location of small bead was off end before and on with other afterwards	1
+temperature of oil was cool before and hot afterwards	1
+state of sugar was solid before and liquid afterwards	1
+orientation of paper was bunched on the hanger before and spread out on the hanger afterwards	1
+state of the route was uncovered before and covered afterwards	1
+location of the mixture was in the blender before and in the baking dish afterwards	1
+composition of rhubarb was separate before and combined with sugar and water afterwards	1
+count of enough ammo was unassured before and assured afterwards	1
+speed of macaroni was still before and moving afterwards	1
+state of towel was straight before and folded afterwards	1
+container of baking dish was empty before and full of sherbet afterwards	1
+state of oil cap was tightened before and loosened afterwards	1
+composition of oil was separate before and mixed with flour afterwards	1
+location of velveeta was on the cutting board before and in the sauce pan afterwards	1
+location of soil was in bag before and in container afterwards	1
+temperature of macaroni was cold before and hot afterwards	1
+location of pistol was hidden before and out afterwards	1
+position of fairy moss was outside of bowl before and inside of bowl afterwards	1
+location of seasoned salt was in mixing bowl before and air-tight container afterwards	1
+availability of player two was party member before and goku afterwards	1
+location of wrench was in a toolbox before and in a hand afterwards	1
+temperature of bucket was cold before and hot afterwards	1
+location of salt was under pestle before and in air tight container afterwards	1
+state of hay was growing before and picked afterwards	1
+cleanness of floor was dirty before and clean afterwards	1
+location of food was ready to be served before and served afterwards	1
+state of jumping was present before and absent afterwards	1
+location of container was on countertop before and on table afterwards	1
+weight of pie dish was light before and heavy afterwards	1
+movement of bolt was still before and moving afterwards	1
+size of moss was larger before and smaller afterwards	1
+container of bowl was empty before and full afterwards	1
+state of mark was visible before and removed afterwards	1
+fullness of bowl was empty before and full afterwards	1
+location of dish was in the cabinet before and on the table afterwards	1
+texture of rhubarb was raw before and cooked afterwards	1
+location of bicycle was beside the person's body before and now between the person's legs afterwards	1
+skill of bomb was active before and being defused afterwards	1
+volume of slow cooker was empty before and full afterwards	1
+temperature of pan was cool before and hot afterwards	1
+availability of vulpix was in wild before and caught afterwards	1
+state of cargo was on dock before and secure afterwards	1
+weight of the baking dish was lighter before and was heavier afterwards	1
+location of extract was outside blender before and inside blender afterwards	1
+organization of bundle was loose before and gathered afterwards	1
+state of can was closed before and open afterwards	1
+location of mixture was in the container before and on food afterwards	1
+temperature of stove top burner was set to medium before and set to low afterwards	1
+location of oil was outside blender before and inside blender afterwards	1
+taste of flavor was mild before and spicy afterwards	1
+availability of handrail was absent before and present afterwards	1
+texture of macaroni was hard before and soft afterwards	1
+state of oil was old before and recycled afterwards	1
+state of underwear strips was long and straight before and tied around the garden plants afterwards	1
+stability of boat was rocking before and steadied afterwards	1
+power of slow cooker was off before and on afterwards	1
+weight of blender was lighter before and heavier afterwards	1
+operation of microphone was untested before and tested afterwards	1
+texture of macaroni was soft before and firmer afterwards	1
+location of oil was in its place before and in pan afterwards	1
+position of razor blade was flat before and at an angle afterwards	1
+state of the cocoa was in the slow cooker before and being served afterwards	1
+location of soap was in a bottle before and in the bucket afterwards	1
+composition of cream cheese was by itself before and blended with marshmellow cream afterwards	1
+shape of wire was twisted before and is rounder afterwards	1
+location of funnel was on the table before and over the mouth of the bottle afterwards	1
+fullness of container was empty before and full afterwards	1
+value of money was more before and less afterwards	1
+cleanness of oil was dirty before and clean afterwards	1
+location of water was in pipes before and out of faucet afterwards	1
+temperature of oil was cold before and hot afterwards	1
+state of oil was still before and bubbling afterwards	1
+power of display was off before and on afterwards	1
+weight of skillet was lighter before and heavier afterwards	1
+knowledge of paper was unselected before and selected afterwards	1
+movement of the aluminum foil was in the bowl before and now removed from bowl afterwards	1
+cleanness of windshield was dirty before and clean afterwards	1
+state of meat was raw before and cooked afterwards	1
+orientation of brush was horizontal before and moving vertically afterwards	1
+length of tape was rolled before and extended afterwards	1
+location of eraser was in the house before and in the glovebox afterwards	1
+state of cutting was attached before and cut afterwards	1
+location of velveeta was in front of me before and to the side of me afterwards	1
+state of inside windshield was dirty before and cleaned with eraser afterwards	1
+fullness of pan was empty before and fuller afterwards	1
+knob of water was off before and on afterwards	1
+state of oil was undrained before and drained afterwards	1
+location of solvent was in a container before and on the window afterwards	1
+state of weapon was down before and up afterwards	1
+length of elastic was in long piece before and cut smaller afterwards	1
+cleanness of sauce pan was clean before and dirty afterwards	1
+state of oil was contained before and uncontained afterwards	1
+fullness of grease c ontainer was less full before and more full afterwards	1
+temperature of chocolate was room temperature before and warm afterwards	1
+decoration of glass was bare rimmed before and decorated/garnished afterwards	1
+location of bung was away from the bike before and on the bike afterwards	1
+location of yogurt was in tub before and in blender afterwards	1
+weight of blender was light before and heavy afterwards	1
+weight of bucket was lighter before and heavier afterwards	1
+composition of razor blade package was whole before and cut open afterwards	1
+location of milk was outside blender before and inside blender afterwards	1
+state of the hdmi cord was unplugged before and plugged into the converter and your tv afterwards	1
+wetness of spoon was dry before and wet afterwards	1
+state of panel was unselected before and selected afterwards	1
+moisture of towel was dry before and wet afterwards	1
+temperature of stove was cool before and hot afterwards	1
+state of list was made before and purchased afterwards	1
+location of cheese sauce was in the pot before and in a bowl afterwards	1
+position of bowl was in an unsuitable position before and in a suitable position afterwards	1
+state of child was wearing plain pants or jeans before and wearing old underwear or underpants on top of plain pants or jean afterwards	1
+wetness of bubble want was dry before and wet afterwards	1
+cost of drink was for sale in store before and purchased from store afterwards	1
+location of air was out before and in afterwards	1
+location of paint was on the window before and on the blade afterwards	1
+wetness of window was dry before and wet afterwards	1
+state of water was still before and bubbly afterwards	1
+appearance of glass was plain before and decorated afterwards	1
+moisture of mixing jar was dry before and wet afterwards	1
+size of eraser was whole before and getting smaller afterwards	1
+weight of bottle was heavy before and light afterwards	1
+wetness of sink was dry before and wet afterwards	1
+location of cheese was to the side before and in the pot afterwards	1
+temperature of the mixture was warmer before and cooler afterwards	1
+container of waste baskets were full before and empty afterwards	1
+location of dirt was on clothes before and in drain afterwards	1
+location of fat was in the pan before and in the sink afterwards	1
+cleanness of the baking dish was clean before and dirty afterwards	1
+fullness of hand was empty before and full afterwards	1
+location of mixing bowl was in cabinet before and on counter top afterwards	1
+moisture of asparagus was dry before and wet afterwards	1
+texture of pan was smooth before and slippery afterwards	1
+cleanness of linoleum was stained before and clean afterwards	1
+power of oven was on before and off afterwards	1
+location of cloth was in drawer before and on counter afterwards	1
+sound of liquid was quiet before and loud afterwards	1
+cleanness of cloth was clean before and dirty afterwards	1
+cleanness of bolt was dirty before and clean afterwards	1
+visibility of vehicle was visible before and invisible afterwards	1
+full of wailmer was hungry before and full afterwards	1
+availability of outside area was unmade before and created afterwards	1
+appearance of faucet was stained before and sparkling afterwards	1
+color of floor was black smudged before and yellow afterwards	1
+state of seasoned salt was unground before and ground afterwards	1
+cleanness of house was dusty before and dusted afterwards	1
+temperature of stove was cold before and hot afterwards	1
+shape of underwear was underwear before and garden ties afterwards	1
+cleanness of stirring tool was cleaner before and dirtier afterwards	1
+location of underwear was on the drawer before and worn by the child afterwards	1
+location of macaroni was in the bag before and in the water afterwards	1
+location of twine was on spool before and on wreath base afterwards	1
+size of duct tape was on roll before and cut off afterwards	1
+state of pan was holding only macaroni before and holding flavored macaroni afterwards	1
+availability of studio was non-existent before and created afterwards	1
+location of water was outside bowl before and inside bowl afterwards	1
+location of sugar was outside blender before and inside blender afterwards	1
+amount of money was more before and less afterwards	1
+time of the time was earlier before and later afterwards	1
+cleanness of scoop was clean before and covered in sherbet afterwards	1
+location of bicycle was absent before and present afterwards	1
+weight of freezer was slightly less full before and more full afterwards	1
+state of player was impatient before and patient afterwards	1
+location of scissors was on the desk before and on hand afterwards	1
+size of sherbet was whole before and in slices afterwards	1
+location of the cream cheese was in a container before and in a bowl afterwards	1
+location of soil was in bag before and in pot afterwards	1
+temperature of macaroni was hot before and cool afterwards	1
+shape of person was standing before and crouching afterwards	1
+weight of the torso was lighter before and heavier afterwards	1
+placement of your foot was on the ground before and now off the ground afterwards	1
+location of knife was in the knife block before and on the cutting board afterwards	1
+placement of weight was uncentered before and centered afterwards	1
+moisture of knife was dry before and wet afterwards	1
+state of yarn was straight before and knitted afterwards	1
+location of red chilli powder was in the bottle before and on the macaroni afterwards	1
+location of salt was in its place before and in boiling water afterwards	1
+location of marshmallow was in continer before and in bowl afterwards	1
+composition of cordial was bare before and decorated afterwards	1
+size of sherbet was whole before and in pieces afterwards	1
+state of table was empty before and loaded with food afterwards	1
+time of macaroni was put in the pan before and cooked for 60 seconds afterwards	1
+weight of bottle was light before and heavy afterwards	1
+state of location was observed before and chosen afterwards	1
+size of mixture was larger before and smaller afterwards	1
+location of boarding plank was absent before and connecting boat and dock afterwards	1
+temperature of window was cooler before and warmer afterwards	1
+availability of outside area was non-existent before and created afterwards	1
+length of duct tape was whole before and cut afterwards	1
+cleanness of mortar was clean before and dirty afterwards	1
+emptiness of bowl was full before and empty afterwards	1
+weight of container was lighter before and heavier afterwards	1
+cleanness of spatula was clean before and dirty afterwards	1
+oiliness of macaroni was less oily before and more oily afterwards	1
+cleanness of fleece was dirty before and clean afterwards	1
+step of fire or ice stone was unfound before and found afterwards	1
+temperature of the mixture was cooler before and warmer afterwards	1
+location of donation box was at home before and with the charity afterwards	1
+temperature of rhubarb was hot before and cool afterwards	1
+location of weapons was on the character before and thrown at the enemy afterwards	1
+temperature of sherbet was room temperature before and frozen afterwards	1
+availability of living/dining room was non-existent before and created afterwards	1
+fullness of bucket was empty before and fuller afterwards	1
+state of person was holding the pan before and holding the spatula afterwards	1
+weight of the hat was lighter before and heavier afterwards	1
+location of cover was on table before and on container afterwards	1
+location of bolt was in the machine before and on the counter afterwards	1
+fullness of washing machine was empty before and full with polar fleece afterwards	1
+location of pestle was absent before and present afterwards	1
+location of salt was in its place before and in pan afterwards	1
+location of glass cleaner was in  its container before and out of its container afterwards	1
+step of bag was unselected before and selected afterwards	1
+moisture of floor was dry before and wet afterwards	1
+location of trash was on floor before and in waste baskts afterwards	1
+location of caulking gun was absent before and present afterwards	1
+weight of blender was heavy before and light afterwards	1
+completion of task was incomplete before and finished afterwards	1
+state of trigger was released before and pulled afterwards	1
+electric conductivity of microphone was turned off before and turned on afterwards	1
+location of detergent was in bottle before and in drain afterwards	1
+connection of microphone was disconnected before and connected afterwards	1
+stickiness of hand was dry before and sticky afterwards	1
+state of pot was empty before and full afterwards	1
+volume of fat was excess before and right amount afterwards	1
+location of air-tight container was missing before and present afterwards	1
+volume of person was silent before and talking afterwards	1
+location of camouflage was elsewhere before and on the rucksaks afterwards	1
+volume of oil container was empty before and fuller afterwards	1
+volume of container was empty before and full afterwards	1
+texture of water was choppy before and smooth afterwards	1
+cleanness of whisk was clean before and dirty afterwards	1
+shape of chocolate was liquid before and heart shaped afterwards	1
+temperature of mug was cooler before and hotter afterwards	1
+availability of fire stone was on ground before and in inventory afterwards	1
+state of mixture was flat before and bubbly afterwards	1
+state of clubhouse was spoken of before and chosen afterwards	1
+temperature of rhubarb was room temperature before and warm afterwards	1
+location of macaroni was in pan before and on plate afterwards	1
+location of ingredient mixture was in the bowl before and in the container afterwards	1
+state of bowl was empty before and filled afterwards	1
+wetness of linoleum was dry before and wet afterwards	1
+location of vinegar was in bottle before and in smaller container afterwards	1
+temperature of asparagus was cold before and warm afterwards	1
+size of underwear was whole before and cut onto mid-thin strips afterwards	1
+location of elastic was on counter before and in lap afterwards	1
+state of small bead was single before and surrounded afterwards	1
+weight of the wood was lighter before and heavier afterwards	1
+location of dust was on the mats before and outside afterwards	1
+location of banana was in peel before and in blender afterwards	1
+temperature of pancake batter was warm before and cold afterwards	1
+state of stance was precarious before and balanced afterwards	1
+moisture of window was dry before and wet afterwards	1
+location of eraser was on glass before and in glove box afterwards	1
+color of brush was black before and colored afterwards	1
+use of bundle of old underwear was used as underwear before and used as stuffing afterwards	1
+state of bike was in motion before and stopped afterwards	1
+shape of pipe cleaner was straight before and bent afterwards	1
+taste of glass was ungarnished before and garnished afterwards	1
+location of cutting was on rose bush before and in pot afterwards	1
+wetness of kitchen towel was dry before and wet afterwards	1
+temperature of bucket was cooler before and warmer afterwards	1
+temperature of ham was cold before and hot afterwards	1
+location of bubble solution was in the bowl before and in the air afterwards	1
+temperature of mixture was room temperature before and chilled afterwards	1
+location of plant was in hand before and in container afterwards	1
+connection of hdmi converter cable was unpligged before and connected to tv's hdmi input afterwards	1
+knowledge of ability to identify dominant foot was absent before and present afterwards	1
+weight of the strip of elastic was lighter before and heavier afterwards	1
+temperature of rotel was room temperature before and hot afterwards	1
+evolution of wailmer was wailmer before and now wailord afterwards	1
+availability of companion was absent before and present afterwards	1
+state of bubble solution was unenhanced before and enhanced afterwards	1
+temperature of rhubarb was raw before and simmered afterwards	1
+wetness of the brush was dry before and wet afterwards	1
+weight of the blender was lighter before and heavier afterwards	1
+wetness of potato was wet before and dry afterwards	1
+container of waste basket was empty before and full afterwards	1
+location of juice was inside lemon before and in bowl afterwards	1
+volume of bottle was full before and empty afterwards	1
+appearance of rhubarb was unadorned before and adorned with mint leaves afterwards	1
+size of underwear was whole before and cut into thin-strips afterwards	1
+temperature of temperature was low before and high afterwards	1
+wetness of sink was drier before and wetter afterwards	1
+cleanness of the knife was was clean before and dirty afterwards	1
+completion of food was unready before and ready afterwards	1
+weight of cup was lighter before and heavier afterwards	1
+size of honeydew was whole before and in chunks afterwards	1
+state of hanger was whole before and reformed for blowing bubbles afterwards	1
+temperature of the baking dish was warmer before and cooler afterwards	1
+location of underpants was in the drawer before and in the donation box afterwards	1
+temperature of oven was cold before and hotter afterwards	1
+state of oil tank was empty before and full afterwards	1
+cleanness of peeler was clean before and dirty afterwards	1
+texture of chocolate was lumpy before and smooth afterwards	1
+location of freezer paper was on roll before and between cookies afterwards	1
+moisture of paint was wet before and dry afterwards	1
+temperature of stove burner was cool before and hot afterwards	1
+wetness of bucket was dry before and wet afterwards	1
+location of container was in cabinet before and on countertop afterwards	1
+wetness of wick was dry before and wet afterwards	1
+weight of your weight was mainly on both feet before and mainly on your least dominant foot afterwards	1
+location of oil was in bottle before and in bowl afterwards	1
+sharpness of blade was sharper before and more dull afterwards	1
+state of triangle was unpressed before and pressed afterwards	1
+decoration of weapon was bare before and camouflaged afterwards	1
+state of bike was moving before and stationary afterwards	1
+location of plate was on counter top before and in freezer afterwards	1
+state of meat was wet before and drier afterwards	1
+location of ribbon was on spool before and on wreath base afterwards	1
+form of cheese was whole before and shredded afterwards	1
+state of asparagus was raw before and cooked afterwards	1
+weight of glass cleaner bottle was heavier before and lighter afterwards	1
+volume of mixing bowl was empty before and holding flour and salt afterwards	1
+texture of duct tape was sticky before and smooth afterwards	1
+temperature of macaroni was hot before and cooling afterwards	1
+newness of underwear was new before and old afterwards	1
+cleanness of tap was dirty before and clean afterwards	1
+location of trash was laying around before and in the trashcan afterwards	1
+location of weapon was in the vehicle before and on the ground afterwards	1
+volume of the baking dish was fuller before and less full afterwards	1
+container of wii's av composite output was empty before and full afterwards	1
+fullness of bank account was full before and depleted afterwards	1
+state of bubble wand was non-existant before and made afterwards	1
+dryness of wick was wet before and dry afterwards	1
+location of rotel was to the side before and in the pot afterwards	1
+cooked or not of meat was raw before and cooked afterwards	1
+weight of tray was laden before and empty afterwards	1
+volume of pot was empty before and full afterwards	1
+temperature of meat was cold before and hot afterwards	1
+weight of serving bowl was lighter before and heavier afterwards	1
+location of cocoa powder was in a package before and in the bowl afterwards	1
+decoration of helmet was bare before and camouflaged afterwards	1
+location of oil was in the bike before and in a can afterwards	1
+state of mixing jar was empty before and holding contents afterwards	1
+weight of pitcher was light before and heavy afterwards	1
+shape of honeydew was solid before and cut afterwards	1
+state of the stone was unselected before and selected afterwards	1
+location of bottle was on the counter before and the refrigerator afterwards	1
+state of chocolate was liquid before and solid afterwards	1
+composition of wire was bare before and covered with paper afterwards	1
+location of camouflage was elsewhere before and on helmet afterwards	1
+location of macaroni was in the pan before and on the plate afterwards	1
+location of pepper mill was missing before and present afterwards	1
+location of pestle was on table before and in mortar afterwards	1
+temperature of mixture was warmer before and colder afterwards	1
+shape of wire hanger was twisted before and untwisted afterwards	1
+state of your pistol was holstered before and out afterwards	1
+option of vs duel was deselected before and selected afterwards	1
+state of oil can was full before and empty afterwards	1
+location of eraser was in the store before and at the customer's house afterwards	1
+location of the wax paper was outside of the refrigerator before and inside the refrigerator afterwards	1
+location of underwear was on the drawer before and on the table afterwards	1
+location of mixture was outside of refrigerator before and inside refrigerator afterwards	1
+location of white vinegar was in its container before and in pan afterwards	1
+state of the strip of elastic was uncut before and cut afterwards	1
+mixture of food was less stirred before and more stirred afterwards	1
+fullness of pan was emptier before and fuller afterwards	1
+location of rucksack was in the vehicle before and on the ground afterwards	1
+state of gun was down before and up afterwards	1
+location of paint was on the window before and in the trash afterwards	1
+state of water was still before and roiling afterwards	1
+ownership of vulpix was owned before and traded afterwards	1
+form of onion was whole before and chopped afterwards	1
+cleanness of knife was clean before and dirty afterwards	1
+volume of ground was filled before and empty afterwards	1
+fullness of refrigerator was emptier before and fuller afterwards	1
+state of cord was unplugged before and plugged in afterwards	1
+weight of oil container was heavier before and lighter afterwards	1
+cleanness of the plate was clean before and dirty afterwards	1
+power of blender was off before and on afterwards	1
+state of faucet was off before and on afterwards	1
+state of bike was stationary before and in motion afterwards	1
+state of bung was unscrewed before and screwed afterwards	1
+state of gun was still before and focused afterwards	1
+contents of container was empty before and full afterwards	1
+wetness of rhubarb was dry before and wet afterwards	1
+location of the cutting was on the rose bush before and now in the ground afterwards	1
+location of eraser was in glove box before and on dash afterwards	1
+state of rotel can was closed before and open afterwards	1
+skill of precision was absent before and present afterwards	1
+volume of oven was empty before and full afterwards	1
+location of person was on dock before and on boat afterwards	1
+knowledge of ability to identify non-dominant leg was absent before and present afterwards	1
+direction of the knob was pointing at a different setting before and pointing at keep warm setting afterwards	1
+location of the bead was off the the strip of elastic before and on the strip of elastic afterwards	1
+location of juice was in lemon before and in bowl afterwards	1
+state of potato was whole before and peeled afterwards	1
+visibility of rucksack was visible before and invisible afterwards	1
+weight of the slow cooker was heavier before and lighter afterwards	1
+volume of bung was full before and empty afterwards	1
+shape of the yarn was flat before and rectangular afterwards	1
+location of oil filter was in oil before and removed afterwards	1
+thickness of paint thickness was uneven before and thin and even afterwards	1
+organization of twine was loose before and attached afterwards	1
+temperature of mixture was warm before and chilled afterwards	1
+location of all of the paint was on window before and scraped away from window afterwards	1
+location of cutting was on rose bush before and cut off afterwards	1
+sound of voice was unheard before and heard afterwards	1
+state of pillow case was open before and sealed by needle and thread afterwards	1
+volume of bowl was empty before and full afterwards	1
+state of character was unevolved before and evolved afterwards	1
+temperature of water and dish soap on window was warmer before and cooler afterwards	1
+location of chocolate was in molds before and on a plate afterwards	1
+shape of hanger was in a hanger shape before and in a circle shape afterwards	1
+cleanness of faucet was dirty before and cleaned afterwards	1
+state of microphone was unused before and being used afterwards	1
+state of asparagus was whole before and cut afterwards	1
+location of battle frontier location was unattained before and now attained afterwards	1
+width of the torso was thinner before and now wider afterwards	1
+knowledge of wailmer was untrained before and trained afterwards	1
+container of milk was in bottle before and in blender afterwards	1
+state of salt shaker was empty before and full afterwards	1
+stated of towel was flat before and folded afterwards	1
+height of height of towel was low before and higher afterwards	1
+container of plate was empty before and filled afterwards	1
+sealing of drink was sealed before and open afterwards	1
+state of the wailmer was untrained before and now evolved afterwards	1
+location of spoon was absent before and present afterwards	1
+action of wailmer was without rare candies before and now a holder of rare candy afterwards	1
+position of oil cap was on before and removed afterwards	1
+state of wailmer was unevolved before and evolved afterwards	1
+location of lid was on the counter before and on the bottle afterwards	1
+composition of window was dry before and wet afterwards	1
+texture of wax paper was flat before and crumpled afterwards	1
+size of paint was clumped before and spread evenly afterwards	1
+moisture of wood was dry before and wet afterwards	1
+location of oil was in a bottle before and on a pan afterwards	1
+inside a freezer of baking dish was outside of a freezer before and inside a freezer afterwards	1
+temperature of rhubarb was cold before and hot afterwards	1
+knowledge of game was unplayed before and played afterwards	1
+location of sorber was in tub before and in blender afterwards	1
+location of air was outside the tank before and inside the tank afterwards	1
+consistency of rhubarb was hard before and soft afterwards	1
+location of mixture was in separate containers before and in one container afterwards	1
+location of tin was in the oven before and on the stove afterwards	1
+weight of the mixing bowl was heavier before and lighter afterwards	1
+size of tape was larger before and smalle afterwards	1
+shape of rose bush was intact before and cut afterwards	1
+weight of the slow cooker was lighter before and heavier afterwards	1
+readiness of area was bare before and prepared for planting afterwards	1
+thickness of the coating of paint was thinner before and thicker afterwards	1
+weight of the plate was lighter before and heavier afterwards	1
+fullness of bucket was more full before and less full afterwards	1
+state of towel was folded before and unfolded afterwards	1
+cleanness of kitchen counter was clean before and messy afterwards	1
+attention of weapon was carelessly disguised before and carefully disguised afterwards	1
+cleanness of window was dirtier before and cleaner afterwards	1
+location of rum was in liquor cabinet before and in blender afterwards	1
+cleanness of underpants was clean before and dirty afterwards	1
+wetness of sugar was dry before and wet from pineapple juice and milk afterwards	1
+smell of blender was smelling like nothing before and smelling like pineapple afterwards	1
+container of slow cooker was empty before and full of ingredients afterwards	1
+wetness of bowl was wet before and dry afterwards	1
+temperature of water was hot before and warm afterwards	1
+availability of dock was absent before and present afterwards	1
+cleanness of pitcher was clean before and dirtier afterwards	1
+cleanness of container was clean before and dirtied afterwards	1
+location of tin was in the pantry before and on the table afterwards	1
+location of pen was on the counter before and in the hand afterwards	1
+state of vulpix was free before and captured afterwards	1
+state of helmet was plain before and camouflaged afterwards	1
+location of pineapple was outside blender before and inside blender afterwards	1
+composition of water was pure before and soapy afterwards	1
+movement of eraser was rubbing before and resting afterwards	1
+shape of sherbet was uniform before and cut afterwards	1
+container of container was empty before and full afterwards	1
+cleanness of foil was clean before and dirty afterwards	1
+coverage of asparagus was exposed before and mostly covered afterwards	1
+location of cheese sauce was in the sauce pan before and in a bowl afterwards	1
+shape of onion was whole before and chopped afterwards	1
+temperature of oven was cooler before and heating afterwards	1
+organization of hdmi cord was unplugged before and plugged in afterwards	1
+availability of drink was full before and empty afterwards	1
+shape of tip of pipe cleaner was straight before and shaped to form beak afterwards	1
+location of spatula was in the drawer before and in the pan afterwards	1
+hardness of choclate was liquid before and solid afterwards	1
+newness of underpants was new before and old afterwards	1
+availability of kids room was non-existent before and created afterwards	1
+color of kitchen towel was white before and orange afterwards	1
+location of grenades was in a characters hand before and thrown at the target afterwards	1
+cleanness of scrubber was clean before and dirty afterwards	1
+attachment of converter was unattached before and connected afterwards	1
+movement of bike was still before and moving afterwards	1
+orientation of boat was perpendicular to dock before and parallel to shore afterwards	1
+state of the blackboard eraser was at rest before and now being used to clean windshield afterwards	1
+temperature of pastry was cold before and warm afterwards	1
+odor of floor was foul smelling before and clean smelling afterwards	1
+state of strainer was empty before and full of macaroni afterwards	1
+composition of onion was whole before and in pieces afterwards	1
+knowledge of stone was unselected before and selected afterwards	1
+location of fat was in the pan before and in a disposal container afterwards	1
+cleanness of lineoleum was marked before and clean afterwards	1
+length of tape was rolled before and unrolled afterwards	1
+volume of blender was full before and empty afterwards	1
+length of potato was short before and long afterwards	1
+appearance of tape was straight before and folded afterwards	1
+state of the clean bowl was dryer before and wetter afterwards	1
+location of water was on the potatoes before and on the cloth afterwards	1
+odor of smell was neutral before and fragrant afterwards	1
+availability of gear was at store before and gathered afterwards	1
+taste of rhubarb cordial was ungarnished before and garnished with mint leaves afterwards	1
+location of red chilli powder was in  its place before and in pan afterwards	1
+hardness of chocolate was liquid before and hardened afterwards	1
+moisture of the clipping was drier before and wetter afterwards	1
+location of oil was in its place before and in water afterwards	1
+temperature of sink was cold before and warmer afterwards	1
+look of child was looking like a regular kid before and looking like superhero afterwards	1
+location of person was inside before and outside afterwards	1
+cleanness of bowl was clean before and covered in mixture afterwards	1
+location of bubble solution was indoors before and outside afterwards	1
+temperature of the pineapple was cooler before and warmer afterwards	1
+location of water was in faucet before and in sink afterwards	1
+location of boat was docked before and in motion afterwards	1
+location of passenger position was at edge of boat before and centered in boat afterwards	1
+wetness of baking dish was dry before and wet from sherbet afterwards	1
+shape of cream cheese was solid before and blended afterwards	1
+speed of passenger was moving quickly before and moving slowly afterwards	1
+location of white vinegar was in the bottle before and in the pan afterwards	1
+position of the bung was on before and removed afterwards	1
+thermal conductivity of the outside of the slow cooker was cooler before and warmer afterwards	1
+state of cloth was dry before and wet afterwards	1
+weight of glass was lighter before and heavier afterwards	1
+temperature of rhubarb was hot before and warm afterwards	1
+size of velveeta was whole before and cut up afterwards	1
+possession of the blackboard eraser was at a store before and now owned by you afterwards	1
+volume of the baking dish was empty before and fuller afterwards	1
+temperature of water was room temperature before and warm afterwards	1
+fullness of glove box was empty before and full afterwards	1
+volume of the blender was fuller before and less full afterwards	1
+location of velveeta was in the fridge before and on the counter afterwards	1
+location of straw items were around house before and in waste basket afterwards	1
+location of soap was in container before and in mixing jar afterwards	1
+color of heating element was black before and red afterwards	1
+cleanness of the shovel was clean before and dirty afterwards	1
+location of eraser was on the windshield before and in the glovebox afterwards	1
+state of bolt was stuck before and unstuck afterwards	1
+wetness of the pruning shears was dry before and wet afterwards	1
+color of macaroni was white before and reddish/pink afterwards	1
+shape of velveeta was whole before and cut into cubes afterwards	1
+state of film was undeveloped before and developed afterwards	1
+location of mortar was absent before and present afterwards	1
+temperature of macaroni was cool before and hot afterwards	1
+pressure of the slow cooker was less pressurized before and more pressurized afterwards	1
+wholeness of all of the paint was more whole before and scraped into pieces afterwards	1
+taste of macaroni was bland before and spicy afterwards	1
+location of black pepper was missing before and present afterwards	1
+temperature of chocolate was cooler before and hotter afterwards	1
+location of honeydew melon was in it's place before and on side of each glass afterwards	1
+contents of storage container was empty before and full afterwards	1
+location of grease was in the pan before and in the trash afterwards	1
+openness of razor blade package was closed before and open afterwards	1
+location of strawberry was inside refrigerator before and on glass afterwards	1
+choice of suitable paper for pinwheels was unselected before and selected afterwards	1
+state of oven door was closed before and open afterwards	1
+location of mixture was put in fridge before and removed from fridge afterwards	1
+fullness of boiling pot was emptier before and fuller afterwards	1
+cleanness of linoleum was dirty before and clean afterwards	1
+wetness of funnel was dry before and wet afterwards	1
+fullness of solvent container was more full before and less full afterwards	1
+location of money was in my possession before and in center's possesion afterwards	1
+cleanness of blender was clean before and dirty afterwards	1
+temperature of velveeta was cold before and room temperature afterwards	1
+weight of mixing bowl was light before and slightly heavier afterwards	1
+moisture of cup was dry before and wet afterwards	1
+location of velveeta was in package before and in bowl afterwards	1
+cleanness of serving dish was cleaner before and dirtier afterwards	1
+availability of fizzy drink was somewhere else before and obtained afterwards	1
+location of funnel was in the cupboard before and in the bottle afterwards	1
+movement of eraser was sitting before and rubbing afterwards	1
+state of floor was uncovered before and covered afterwards	1
+fullness of bucket was empty before and full afterwards	1
+knowledge of ability to identify bike shaft was absent before and present afterwards	1
+step of completed level was unentered before and now entered afterwards	1
+location of center of gravity was high before and low afterwards	1
+state of bolt was old before and new afterwards	1
+size of velveeta was large before and small afterwards	1
+state of crepe paper was smooth before and crumpled afterwards	1
+skill of ability to ride a bike was absent before and present afterwards	1
+location of pastry was in bowl before and on wax paper afterwards	1
+location of shovel was on ground before and in hand afterwards	1
+granularity of velveeta was whole before and cubed afterwards	1
+state of undercoat was unapplied before and applied afterwards	1
+location of pastry was in refrigerator before and on counter afterwards	1
+width of towel was wider before and narrower afterwards	1
+wetness of blender was dry before and soaked in pineapple afterwards	1
+state of mixture was nonalcoholic before and alcoholic afterwards	1
+temperature of wick was cool before and heated afterwards	1
+shape of pastry was balled before and flattened afterwards	1
+state of finger was bare before and decorated afterwards	1
+state of rusty bolt was attatched before and unattatched afterwards	1
+cleanness of house was dirty before and clean afterwards	1
+location of molotov cocktails was in a characters hand before and thrown at the target afterwards	1
+knowledge of area was unselected before and selected afterwards	1
+temperature of asparagus was raw before and cooked afterwards	1
+location of peeler was in drawer before and in hand afterwards	1
+wetness of the wood was dry before and wet afterwards	1
+state of free play was off before and on afterwards	1
+state of the ground was unbroken before and broken up afterwards	1
+state of the hdmi cord was unplugged before and plugged into the cable afterwards	1
+state of burner was off before and on afterwards	1
+weight of bag was heavier before and lighter afterwards	1
+cleanness of pan was clean before and dirty afterwards	1
+change of wailmer was still wailmer before and evolving afterwards	1
+temperature of mixture was warmer before and chilled afterwards	1
+sound of voice was unheard before and heard afterwards	1
+cleanness of duster was clean before and dusty afterwards	1
+location of ajino moto was in its place before and in pan afterwards	1
+state of area was considered before and selected afterwards	1
+wetness of faucet was dry before and wet with juice afterwards	1
+temperature of mixture was cool before and hot afterwards	1
+fullness of glass cleaner bottle was more full before and less full afterwards	1
+state of hair was a mess before and organized and neatly tied with a ribbon afterwards	1
+weight of pitcher was lighter before and heavier afterwards	1
+location of pastry was in mound on table before and in pan afterwards	1
+state of animation was unplayed before and played afterwards	1
+stability of communication was inefficient before and efficient afterwards	1
+cleanness of paint was on the window before and removed afterwards	1
+use of hanger was for hanging before and for blowing bubbles afterwards	1
+cleanness of serving dish was clean before and dirty afterwards	1
+location of oil filter was unremoved before and removed afterwards	1
+texture of chocolate was solid before and liquid afterwards	1
+shape of tape was long before and folded afterwards	1
+availability of voice panel was deselected before and selected afterwards	1
+location of the baking dish was outside of the refrigerator before and inside the refrigerator afterwards	1
+stability of team was unsupported before and supported afterwards	1
+cleanness of baking dish was clean before and covered in sherbet afterwards	1
+power of microwave was off before and on afterwards	1
+location of lid was on the table before and on the bottle afterwards	1
+shape of velveeta was a block before and cut into pieces afterwards	1
+location of oil was in the bottle before and in the pan afterwards	1
+moisture of paintbrush was dry before and wet afterwards	1
+state of towel was folded before and hanging afterwards	1
+taste of seasoned salt was untasted before and tasted afterwards	1
+location of oil filter was inside the oil tank before and outside the oil tank afterwards	1
+state of eraser was used before and replaced afterwards	1
+state of skid mark was present before and removed afterwards	1
+weight of bowl was light before and heavy afterwards	1
+location of mixtre was in mixing bowl before and in serving bowl afterwards	1
+how cooked of meat was less cooked before and more cooked afterwards	1
+location of chocolate was in a pot before and in molds afterwards	1
+cleanness of fork was clean before and dirty afterwards	1
+weight of pan was lighter before and heavier afterwards	1
+location of paddle was across boat before and in gunwale afterwards	1
+moisture of bolt was wet before and dry afterwards	1
+area of wax paper was on roll before and covering tray afterwards	1
+fullness of skillet was less full before and more full afterwards	1
+color of the wood was brown before and white afterwards	1
+state of bomb was unplanted before and planted afterwards	1
+location of bung was on the bike before and removed from the bike afterwards	1
+location of paint was in can before and on wood afterwards	1
+location of vehicle camouflage net was in the box before and on the vehicle afterwards	1
+state of shape was considered before and made afterwards	1
+location of batter was in a bowl before and in a ketchup bottle afterwards	1
+weight of pan was heavier before and lighter afterwards	1
+location of soy sauce was in the bottle before and in the pan afterwards	1
+status of wreath was in progress before and completed afterwards	1
+state of wick was dry before and wet afterwards	1
+weight of towel was lighter before and heavier afterwards	1
+weight of refrigerator was lighter before and heavier afterwards	1
+cleanness of cloth was clean before and dirtier afterwards	1
+state of oven was cold before and hot afterwards	1
+weight of soap bottle was heavier before and lighter afterwards	1
+cleanness of the slow cooker was cleaner before and dirtier afterwards	1
+wetness of clipping was dry before and moistened afterwards	1
+container of bowl was empty before and full of mixture afterwards	1
+state of containter was empty before and full afterwards	1
+electric conductivity of stove was turned off before and turned on afterwards	1
+width of the webbing was wider before and narrower afterwards	1
+location of funnel was in drawer before and on bottle afterwards	1
+moisture of wick was wet before and dry afterwards	1
+composition of meat was more greasy before and less greasy afterwards	1
+change of wailmer was unevolved before and evolved afterwards	1
+direction of paint direction was unknown before and downward afterwards	1
+location of webbing was in the vehicle before and on the ground afterwards	1
+composition of marshmallow cream was by itself before and blended with cream cheese afterwards	1
+shape of underwear strips was long and straight before and tied into a ribbon around the hair afterwards	1
+temperature of rhubarb was hot before and cooler afterwards	1
+cleanness of mixing spoon was clean before and dirty afterwards	1
+state of oil tank was closed before and open afterwards	1
+state of o button was resting before and pressed afterwards	1
+location of oil was in the bottle before and in the tank afterwards	1
+thermal conductivity of macaroni was raw before and cooked afterwards	1
+locaion of rum was in botle before and in pitcher afterwards	1
+shape of wire was straight before and in a circle shape afterwards	1
+state of paint was wet before and dry afterwards	1
+position of razor blade was out of position before and positioned afterwards	1
+stability of movement was jerky before and smooth afterwards	1
+location of macaroni was in its bag before and in boiling water afterwards	1
+use of underwear was used as underwear before and worn on outside of pants afterwards	1
+location of salt was in its place before and in water afterwards	1
+fullness of air-tight container was empty before and full afterwards	1
+taste of macaroni was bland before and salted afterwards	1
+location of mixture was outside of bowl before and inside bowl afterwards	1
+sound of timer was making noise before and quiet afterwards	1
+wetness of floor was dry before and wet afterwards	1
+location of fizzy drink was in container before and on bolt afterwards	1
+weight of the refrigerator was lighter before and heavier afterwards	1
+composition of wick was wet before and dry afterwards	1
+newness of underwears was new before and old afterwards	1
+location of container was at nursery before and in my possession afterwards	1
+state of container was considered before and purchased afterwards	1
+temperature of ham was heating before and cooling afterwards	1
+length of asparagus was longer before and shorter afterwards	1
+cleanness of the blender was clean before and dirty afterwards	1
+location of stuff was in store before and in home afterwards	1
+state of topcoat was missing before and applied afterwards	1
+state of duct table was unmeasured before and measured afterwards	1
+evolution of wailmer was a wailmer before and a wailord afterwards	1
+location of rooting hormone was in bottle before and on roots afterwards	1
+weight of solvent container was heavier before and lighter afterwards	1
+ownership of eraser was owned by store before and bought by you afterwards	1
+availability of kids room was unmade before and created afterwards	1
+weight of the baking dish was heavier before and lighter afterwards	1
+content of pillow case was empty before and filled with underwears afterwards	1
+emptiness of bottle was empty before and full afterwards	1
+state of rust was intact before and dissolved afterwards	1
+fullness of oil container was empty before and full afterwards	1
+wetness of bowl was dry before and wet afterwards	1
+temperature of pot was cool before and hot afterwards	1
+location of game character was out before and hidden afterwards	1
+location of honeydew was on the counter before and on the glass afterwards	1
+location of yogurt was in container before and in blender afterwards	1
+fullness of glove box was less full before and more full afterwards	1
+container of batter was in bowl before and in bottle afterwards	1
+power of stove burner was off before and on afterwards	1
+availability of master bedroom was unmade before and created afterwards	1
+size of dough was one large ball before and several small pieces afterwards	1
+container of trash bag was empty before and full afterwards	1
+location of money was in purse before and in cash register afterwards	1
+cleanness of paintbrush was clean before and dirty afterwards	1
+placement of your foot was on the pedal before and now on the ground afterwards	1
+location of the mixture was in a mixing bowl before and in a clean bowl afterwards	1
+state of gas was shut off before and flowing afterwards	1
+location of water was in tap before and in mixing jar afterwards	1
+wetness of meat was more wet before and more dry afterwards	1
+speed of speed was constant before and slowing afterwards	1
+odor of lemon was plain smelling before and strong smelling afterwards	1
+location of paint was on window before and on blade afterwards	1
+container of blender was empty before and full of pineapple afterwards	1
+location of white vinegar was in  its place before and in pan afterwards	1
+color of meat was pink before and brown afterwards	1
+state of bung was attached before and detached afterwards	1
+cleanness of eraser was clean before and dirty afterwards	1
+weight of pan was was heavy before and light afterwards	1
+weight of roasting pan was light before and heavier afterwards	1
+weight of the strip of elastic was heavier before and lighter afterwards	1
+form of tomato was whole before and diced afterwards	1
+state of passenger in boat was standing apart before and offering steadying hand afterwards	1
+temperature of liquid was warmer before and colder afterwards	1
+shape of the webbing was straight before and rectangular afterwards	1
+location of bead was in container before and on elastic afterwards	1
+volume of fridge was empty before and filled afterwards	1
+taste of cheese dip was mild before and spicy afterwards	1
+location of spoon was in drawer before and in mixing bowl afterwards	1
+location of asparagus was in the oven before and on a platter afterwards	1
+volume of pitcher was empty before and full afterwards	1
+location of coat was in tin before and on wood afterwards	1
+magnitude of degree of care was medium before and high afterwards	1
+weight of bottle was heavier before and lighter afterwards	1
+wetness of slow cooker was dry before and wet afterwards	1
+location of oil cap was on the oil tank before and removed from the tank afterwards	1
+wetness of cloth was dry before and wet afterwards	1
+state of garden plants was plain before and decorated afterwards	1
+cleanness of kitchen towel was clean before and dirty afterwards	1
+location of cutting was unplanted before and planted in area afterwards	1
+size of lemon was whole before and cut in half afterwards	1
+state of bolt was stuck before and free afterwards	1
+count of goku was single player before and multiple players afterwards	1
+motion of person was moving before and stationary afterwards	1
+ownership of eraser was in store before and purchased afterwards	1
+location of paint was on shelf before and on your work area afterwards	1
+availability of communication was unavailable before and available afterwards	1
+location of drop cloth was present before and removed afterwards	1
+connection of hdmi cord was loose before and attached afterwards	1
+odor of lemon was plain smelling before and fragrant afterwards	1
+location of water was in faucet before and on lineoleum afterwards	1
+state of bomb was absent before and planted afterwards	1
+location of camouflage net was elsewhere before and on the vehicle afterwards	1
+state of bike was unbalanced before and balanced afterwards	1
+location of pancake batter was in the bottle before and in the pan afterwards	1
+temperature of chocolate was colder before and warmer afterwards	1
+contact of razor blade was in contact with the box before and in contact with the window afterwards	1
+location of sherbet was in a blender before and in a baking dish afterwards	1
+contentment of plant was thirsty before and fed afterwards	1
+location of smoothie was in blender before and in glasses afterwards	1
+location of razor blade was in a package before and in a hand afterwards	1
+location of celery salt was missing before and present afterwards	1
+location of pan was on the stove before and on the counter/table afterwards	1
+location of asparagus was in pan before and in serving dish afterwards	1
+state of game was unsaved before and saved afterwards	1
+organization of ribbon was loose before and attached afterwards	1
+wetness of mug was dry before and wet afterwards	1
+state of water faucet was off before and on afterwards	1
+temperature of velveeta was room temperature before and warming afterwards	1
+location of sun was farther east before and farther west afterwards	1
+location of spray cleaner was inside bottle before and on windows afterwards	1
+position of tool was open before and gripped afterwards	1
+electric conductivity of microphone was disconnected before and connected afterwards	1
+coverage of camouflage net was off the vehicle before and over the vehicle afterwards	1
+location of pillow case was on the drawer before and on the table afterwards	1
+state of velveeta was solid before and liquid afterwards	1
+wetness of bolt was wet before and dry afterwards	1
+location of person was on dock before and in boat afterwards	1
+weight of bowl was heavy before and lighter afterwards	1
+mechanical movement of the chain was at rest on the sprocket before and now moving the tire afterwards	1
+shape of square ends was straight before and twisted afterwards	1
+texture of paint was bubbly before and smooth afterwards	1
+visibility of weapon was visible before and disguised afterwards	1
+electric conductivity of fridge light was off before and on afterwards	1
+volume of hanger was emptier before and fuller afterwards	1
+container of mixture was in blender before and in baking dish afterwards	1
+covering of window was more covered before and more bare afterwards	1
+composition of potaoto was solid before and sliced afterwards	1
+state of the yarn was loose before and knitted afterwards	1
+position of person was standing up before and kneeled down afterwards	1
+wetness of glass was dry before and wet afterwards	1
+temperature of macaroni was hot before and cold afterwards	1
+state of hdmi cord was unplugged before and plugged in afterwards	1
+location of batter was in bottle before and in pan afterwards	1
+location of ajino moto was in  its place before and in pan afterwards	1
+location of ham was in a package before and around the asparagus afterwards	1
+location of cutting was on bush before and in pot afterwards	1
+location of towel was in the closet before and on the rack afterwards	1
+shape of paper was straighter before and scruched afterwards	1
+location of the oil was in a container before and in the blender afterwards	1
+choice of stone was unchosen before and selected afterwards	1
+state of the blackboard eraser was being used before and now being replaced afterwards	1
+state of the top was open before and drawn in afterwards	1
+location of underwears was on the drawer before and stuffed inside the pilow case afterwards	1
+location of plant was in garden before and in hand afterwards	1
+fullness of serving bowl was empty before and full afterwards	1
+fullness of surface was empty of equipment before and full of equipment afterwards	1
+location of rum was in bottle before and in blender afterwards	1
+stability of boat was in motion before and still afterwards	1
+shape of the piece of yarn was straight before and twisted and folded afterwards	1
+location of foot was on ground before and in air afterwards	1
+texture of pastry was smooth before and rigid afterwards	1
+cleanness of funnel was clean before and dirty afterwards	1
+wetness of pitcher was dry before and wet afterwards	1
+state of wire was straight before and twisted afterwards	1
+state of oven door was open before and closed afterwards	1
+location of eraser was on shelf before and in home afterwards	1
+location of the marshmallow cream was in a container before and in a bowl afterwards	1
+size of tape was rolled before and in pieces afterwards	1
+location of wick was on counter before and in lamp afterwards	1
+location of other person was on dock before and on boat afterwards	1
+weight of the clean bowl was lighter before and heavier afterwards	1
+fullness of platter was empty before and full of potatoes afterwards	1
+temperature of oven was cold before and hot afterwards	1
+state of jug was empty before and full afterwards	1
+location of pot was in the cupboard before and on the stovetop afterwards	1
+state of passenger was standing before and crouching afterwards	1
+location of oil was in the oil tank before and in a can afterwards	1
+location of mixture was in blender before and in glass afterwards	1
+location of blade was in box before and in hand afterwards	1
+location of dust was on furniture before and cleaned up afterwards	1
+location of hanger was on the table before and through the paper afterwards	1
+cleanness of knife was clean before and dirty afterwards	1
+state of final fold was closed before and opened afterwards	1
+state of the pineapple was solid before and blended afterwards	1
+availability of cocoa mixture was unmade before and made afterwards	1
+availability of microphone was unused before and used afterwards	1
+accompaniment of main dish was unaccompanied before and accompanied afterwards	1
+state of wax paper was straight before and crumpled afterwards	1
+state of clothng was available before and washed afterwards	1
+location of soda was on the bolt before and on the towel afterwards	1
+state of container was observed before and selected afterwards	1
+state of bomb was ticking before and defused afterwards	1
+wetness of bolt was dry before and wet afterwards	1
+attachment of hdmi cord was loose before and plugged in afterwards	1
+thickness of potato was thicker before and thinner afterwards	1
+shape of crepe paper was whole before and pierced with hanger afterwards	1
+cleanness of cup was clean before and dirty afterwards	1
+weight of pitcher was heavier before and lighter afterwards	1
+state of studio was considered before and created afterwards	1
+location of lemon juice was on faucet before and in sink afterwards	1
+state of hole in ground was empty before and filled afterwards	1
+condition of eraser was new before and used afterwards	1
+cleanness of bottle was dirty before and clean afterwards	1
+weight of window was heavier before and lighter afterwards	1
+weight of the bowl was lighter before and heavier afterwards	1
+clarity of bottle was blank before and written on afterwards	1
+temperature of boiling pot was cooler before and hotter afterwards	1
+temperature of food was raw before and cooked afterwards	1
+organization of equipment was scattered before and organized afterwards	1
+state of oil was unrecycled before and recycled afterwards	1
+state of paint was stuck on before and peeling off afterwards	1
+location of money was in purse before and in cash register afterwards	1
+location of hay was absent before and on the weapon afterwards	1
+location of soy sauce was in its container before and in pan afterwards	1
+state of the hdmi was unplugged before and plugged afterwards	1
+wetness of mixture was dry before and wetter afterwards	1
+texture of chocolate was in a pot before and in molds afterwards	1
+orientation of wick was on lamp before and removed afterwards	1
+location of cheese was in the fridge before and in the bowl afterwards	1
+temperature of the slow cooker was cooler before and warmer afterwards	1
+state of asparagus was cooking before and cooling afterwards	1
+location of chocolate was in mold before and on plate afterwards	1
+cleanness of floor was marked before and clean afterwards	1
+shape of lemon was solid before and cut in half afterwards	1
+texture of bolt was rough before and sticky afterwards	1
+size of underpants was whole before and cut up afterwards	1
+orientation of new bolt was removed before and placed afterwards	1
+temperature of fruit was 45 degrees before and 32 degrees afterwards	1
+fullness of mortar was empty before and full afterwards	1
+cooking of macaroni was less cooked before and more cooked afterwards	1
+complexity of salt was plain before and mixed with spice afterwards	1
+decoration of rucksack was bare before and camouflaged afterwards	1
+location of center of gravity was forward before and centered afterwards	1
+wetness of hands was dry before and wet afterwards	1
+state of sink was dry before and wet afterwards	1
+ownership of oil based paint was owned by art store before and bought by you afterwards	1
+shape of pipe cleaners was straight before and now the body afterwards	1
+volume of blender was empty before and full afterwards	1
+attention of webbing was carelessly placed before and carefully placed afterwards	1
+state of food was less cooked before and more cooked afterwards	1
+shape of coat hanger was in its original shape before and in a wand shape afterwards	1
+availability of room on boat was unavailaable before and available afterwards	1
+step of outside area was unmade before and made afterwards	1
+location of sherbet was outside of a freezer before and inside a freezer afterwards	1
+location of foot was in air before and on pedal afterwards	1
+cleanness of window was dirty before and clean afterwards	1
+location of seasoned salt was in mortar before and storage container afterwards	1
+location of spoon was outside of pitcher before and inside pitcher afterwards	1
+state of triangle buttom was resting before and pressed afterwards	1
+location of eraser was at shop/in drawer before and in hand afterwards	1
+location of non-dominant foot was on ground before and on pedal afterwards	1
+location of fat was in frying pan before and drained from frying pan afterwards	1
+state of mixture in bowl was dry before and wet afterwards	1
+cleanness of gore-tex was unwashed before and washed afterwards	1
+temperature of mixture was room temperature before and heated in cooker afterwards	1
+cleanness of bowl was clean before and dirty afterwards	1
+fullness of soap bottle was more full before and less full afterwards	1
+thickness of towel was thinner before and thicker afterwards	1
+power of hand muscles was relaxed before and being used afterwards	1
+location of container was in the cupboard before and on the counter afterwards	1
+composition of tape was separate pieces before and one piece afterwards	1
+power of stove was off before and on afterwards	1
+step of wreath base was unknown before and chosen afterwards	1
+position of bung was removed before and back on afterwards	1
+state of animation was missing before and on screen afterwards	1
+state of wreath base was without a hanger before and equipped with a hanger afterwards	1
+location of bubble want was inside before and outside afterwards	1
+cleanness of potato was dirty before and cleaner afterwards	1
+state of black mark was on linoleum before and erased afterwards	1
+state of stove was off before and on afterwards	1
+position of pipe cleaner was straight before and bent afterwards	1
+texture of chocolate was liquid before and frozen afterwards	1
+texture of baking tin was dry before and oiled afterwards	1
+attachment of tv was unattached before and connected afterwards	1
+container of pitcher was empty before and full afterwards	1
+state of the cutting was attached to the rose bush before and unattached from the rose bush afterwards	1
+container of pitcher was full before and empty afterwards	1
+location of red chilli powder was in its container before and in pan afterwards	1
+location of person was away from linoleum before and near linoleum afterwards	1
+state of the slow cooker was at a different setting before and on a keep warm setting afterwards	1
+location of soy sauce was in  its place before and in pan afterwards	1
+state of paper was considered before and selected afterwards	1
+composition of liquid was non-alcoholic before and alcoholic afterwards	1
+hardness of asparagus was harder before and softer afterwards	1
+volume of the blender was less full before and fuller afterwards	1
+temperature of oven rock was cold before and warm afterwards	1
+cleanness of spoon was clean before and dirty afterwards	1
+location of sponge was on the ground before and in the bucket afterwards	1
+wetness of the knife was dry before and wet afterwards	1
+cleanness of faucet was dirty before and clean afterwards	1
+connection of hdmi converter cable was unattached before and plugged in afterwards	1
+location of macaroni was out of pan before and in pan afterwards	1
+location of oil was in the pantry before and in the water afterwards	1
+temperature of burner was cold before and hot afterwards	1
+location of pancake batter was in the bowl before and the bottle afterwards	1
+location of pipe cleaner was completely on the ground before and partially in air afterwards	1
+cleanness of bottle was clean before and dirty afterwards	1
+location of marshmallow cream was in container before and in blender afterwards	1
+state of ammo was out of the gun before and in the gun afterwards	1
+state of pinwheels was separate before and made afterwards	1
+location of character was on middle of street before and on end of street afterwards	1
+location of dominant foot was on ground before and on pedal afterwards	1
+length of tape was whole before and cut afterwards	1
+emptiness of towel rack was empty before and full afterwards	1
+composition of rum was separate before and mixed with ingredients afterwards	1
+compostion of window was dry before and wet afterwards	1
+state of paint surface was uneven before and even afterwards	1
+state of studio was absent before and set up afterwards	1
+cleanness of side of each glass was cleaner before and dirtier afterwards	1
+location of trash was in the waste baskets before and in the trash bag afterwards	1
+size of towel was larger before and smaller afterwards	1
+location of wire was in closet before and on door afterwards	1
+location of pan was in cupboard before and on stove afterwards	1
+cleanness of the brush was clean before and dirty afterwards	1
+state of bottle was open before and covered afterwards	1
+container of mixture was in slow cooker before and in mug afterwards	1
+state of yard was unprepared before and prepared afterwards	1
+temperature of velveeta was cool before and hot afterwards	1
+moisture of container was dry before and wet afterwards	1
+location of saucepan was in the cabinet before and on the stove top afterwards	1
+state of tv was unplugged before and plugged in afterwards	1
+form of chocolate was solid before and melted afterwards	1
+temperature of stirring tool was cooler before and warmer afterwards	1
+weight of serving dish was light before and heavy afterwards	1
+watered of plant was dry before and wet afterwards	1
+location of mixture was in a pitcher before and in glasses afterwards	1
+wetness of fairy moss was dry before and wetter afterwards	1
+cleanness of shovel was clean before and dirty afterwards	1
+availability of master bedroom was non-existent before and created afterwards	1
+location of mixture was in bowl before and in hand afterwards	1
+volume of continer was empty before and fuller afterwards	1
+location of the milk was in a container before and in the blender afterwards	1
+availability of microphone was nonfunctional before and functional afterwards	1
+hardness of rhubarb was hard before and soft afterwards	1
+location of the sherbet was in the baking dish before and on a plate afterwards	1
+age of bolt was old before and new afterwards	1
+orientation of tape was long before and folded afterwards	1
+shape of pastry was round before and pan shaped afterwards	1
+wetness of scoop was dry before and covered in sherbet afterwards	1
+going of wailmer was still before and going afterwards	1
+wholeness of paint was more whole before and scarped into pieces afterwards	1
+motion of bike was still before and moving afterwards	1
+temperature of water was cold before and hote afterwards	1
+location of salt was absent before and present afterwards	1
+state of cutting was attached before and removed afterwards	1
+texture of mixture was chunky before and smooth afterwards	1
+location of towel was outside before and in the closet afterwards	1
+state of wick was whole before and burned afterwards	1
+cleanness of cutting board was clean before and dirty afterwards	1
+texture of paint splatter was solid before and liquid afterwards	1
+location of new bolt was in a package before and in the machine afterwards	1
+location of trash was on the floor before and in waste baskets afterwards	1
+location of eraser was on table before and in glove box afterwards	1
+location of olive oil was in container before and in tin afterwards	1
+location of fir was outside planter before and inside planter afterwards	1
+size of pineapple was whole before and cut into pieces afterwards	1
+temperature of macaroni was hotter before and cooler afterwards	1
+location of glovebox was away from car before and inside car afterwards	1
+cleanness of sponge was clean before and dirty afterwards	1
+state of oil bottle was more full before and less full afterwards	1
+size of fruit was whole before and sliced afterwards	1
+state of wood was uncoated before and coated afterwards	1
+wetness of strainer was drier before and wetter afterwards	1
+weight of wire was lighter before and heavier afterwards	1
+state of microphone was unplugged before and plugged in afterwards	1
+location of the pineapple was outside the blender before and inside the blender afterwards	1
+weight of bowl was heavier before and lighter afterwards	1
+state of route was uncovered before and covered afterwards	1
+composition of the yarn was in a line before and knitted together afterwards	1
+state of vehicle camouflage net was folded before and opened afterwards	1
+location of paint was on window before and scraped off window afterwards	1
+rum of rum was in bottle before and poured in blender afterwards	1
+shape of pineapple was intact before and blended afterwards	1
+location of stage was unspecified before and specified afterwards	1
+shape of fairy moss was mess before and pruned afterwards	1
+temperature of chocolate was warmer before and colder afterwards	1
+strength of grip on bike was loose before and tight afterwards	1
+volume of oil container was fuller before and emptier afterwards	1
+transparency of window was more opaque before and more transparent afterwards	1
+state of pistol was concealed before and exposed afterwards	1
+location of paint brush was absent before and present afterwards	1
+location of freezer paper was on roll before and in container afterwards	1
+weight of paintbrush was light before and heavy afterwards	1
+placement of the bowl was outside of freezer before and now inside of freezer afterwards	1
+location of oil was in cabinet before and in bowl afterwards	1
+action of ball was unused before and used afterwards	1
+location of hot sauce was in the fridge before and in the bowl afterwards	1
+state of player was unarmed before and armed afterwards	1
+location of salt was in the pantry before and in the water afterwards	1
+dampness of skid mark was dry before and moister afterwards	1
+cost of plant was owned by garden center before and purchased from garden center afterwards	1
+location of sauce pan was in the cabinet before and on the stove top afterwards	1
+moisture of beef was more wet before and less wet afterwards	1
+state of floor was dirty before and clean afterwards	1
+location of vinegar was in bottle before and cup afterwards	1
+cleanness of pitcher was clean before and juicy afterwards	1
+composition of fairy house was bare before and decorated afterwards	1
+length of elastic was longer before and shorter afterwards	1
+sound of room was quiet before and noisier afterwards	1
+state of weapon was unfired before and fired afterwards	1
+shape of wax paper was flat before and crumpled afterwards	1
+population of mode was one player before and two player afterwards	1
+volume of waste baskets were full before and empty afterwards	1
+cleanness of sink was clean before and dirty afterwards	1
+location of salt was in  its place before and in pan afterwards	1
+seasoning of food was bland before and tasty afterwards	1
+temperature of burner was medium-low before and low afterwards	1
+amount of light was bright before and diffused afterwards	1
+location of duct tape was on roll before and in pieces afterwards	1
+connection of wii was loose before and attached afterwards	1
+size of asparagus was longer before and shorter afterwards	1
+location of plate was in the cabinet before and on the table afterwards	1
+texture of assembly was coated with rust before and smoother afterwards	1
+composition of bung was attached before and disattached afterwards	1
+items of candy was uncopied before and copied afterwards	1
+orientation of stove knob was in the off position before and in the on position afterwards	1
+temperature of batter was warm before and colder afterwards	1
+location of sorbet was in container before and in blender afterwards	1
+state of hand was empty before and holding eraser afterwards	1
+cleanness of vegetable peeler was clean before and dirty afterwards	1
+cost of eraser was for sale at store before and purchased fro store afterwards	1
+state of stove was on before and off afterwards	1
+shape of rose bush was fuller before and thinner afterwards	1
+state of macaroni was less oily before and more oily afterwards	1
+cleanness of pitcher was clean before and dirty afterwards	1
+location of meat was in the fridge before and in the pan afterwards	1
+weight of bucket was heavier before and lighter afterwards	1
+cleanness of pan was cleaner before and dirtier afterwards	1
+size of tape was whole before and in pieces afterwards	1
+wetness of bottle was dry before and wet afterwards	1
+cleanness of polar fleece was unwashed before and washed afterwards	1
+shape of trash bag was flat before and rounder afterwards	1
+contents of bowl was empty before and full afterwards	1
+state of mixture was raw before and cooked afterwards	1
+mass of waste baskets were full before and empty afterwards	1
+moisture of lemon was dry before and juicy afterwards	1
+appearance of route was uncovered before and covered afterwards	1
+shape of wire was straight before and bent into a loop afterwards	1
+location of food was in pan before and served afterwards	1
+weight of your weight was placed on the seat and pedals before and now placed on the seat and ground afterwards	1
+power of oven was off before and on afterwards	1
+location of boat was in open water before and at dock afterwards	1
+cleanness of razor blade was clean before and dirty afterwards	1
+shape of edge was uneven before and shaped afterwards	1
+state of bomb was active before and deactivated afterwards	1
+shape of hanger was normal before and bent into circle afterwards	1
+location of old oil was in a can before and in a jug afterwards	1
+texture of mixture was chunky before and smoother afterwards	1
+newness of underpants was new before and old afterwards	1
+wetness of cloth was dry before and damp afterwards	1
+knowledge of ability to identify handlebars was absent before and present afterwards	1
+choice of character was nameless before and named afterwards	1
+cleanness of bowl was clean before and dirty afterwards	1
+moisture of bolt was dry before and wet afterwards	1
+texture of velveeta was thick before and runny afterwards	1
+visibility of helmet was visible before and invisible afterwards	1
+composition of the cream cheese was separate before and combined with the marshmallow cream afterwards	1
+location of juice was in lemon before and squeezed out afterwards	1
+weight of mixing jar was lighter before and heavier afterwards	1
+power of stove was on before and off afterwards	1
+state of microphone was unconnected before and connected afterwards	1
+state of dough was hot before and cool afterwards	1
+size of elastic was whole before and in pieces afterwards	1
+state of pipe cleaner was straight before and bent afterwards	1
+position of oil filter was on before and removed afterwards	1
+emptiness of closet was empty before and full afterwards	1
+volume of the refrigerator was less full before and fuller afterwards	1
+location of asparagus was in the fridge before and out on the table afterwards	1
+location of fork was in drawer before and in hand afterwards	1
+state of oil cap was attached before and detached afterwards	1
+orientation of bottle was open before and closed with lid afterwards	1
+temperature of food was cooler before and hotter afterwards	1
+temperature of sugar was room temperature before and warm afterwards	1
+texture of wood was smooth before and tacky afterwards	1
+temperature of cooker was room temperature before and heated on low setting afterwards	1
+location of mixture was in pitcher before and in glass afterwards	1
+location of cream cheese was in container before and in bowl afterwards	1
+temperature of bottle was warm before and cold afterwards	1
+location of eraser was absent before and present afterwards	1
+location of eraser was in store before and in your home afterwards	1
+location of the baking dish was inside the refrigerator before and outside of the refrigerator afterwards	1
+stability of bike was unstable before and stable afterwards	1
+location of macaroni was in the strainer before and in the pan afterwards	1
+fullness of cup was empty before and filled afterwards	1
+state of old bolt was stuck before and free afterwards	1
+location of chilled drinks was in  their place before and served afterwards	1
+location of velveeta was in the fridge before and on the cutting board afterwards	1
+weight of bicycle was lighter before and heavier afterwards	1
+state of yarn was in ball before and knitted afterwards	1
+location of vinegar was in bottle before and in container afterwards	1
+state of wick was wet before and dry afterwards	1
+state of the fruit was whole before and sliced afterwards	1
+moisture of faucet was dry before and wet afterwards	1
+electric conductivity of washing machine was off before and on afterwards	1
+color of meat was red before and brown afterwards	1
+volume of container was fuller before and emptier afterwards	1
+cost of chocolate was in store before and purchased for use afterwards	1
+weight of mug was light before and heavy afterwards	1
+location of rhubarb was on heat before and off heat afterwards	1
+state of tin was empty before and full afterwards	1
+composition of asparagus was whole before and cut up afterwards	1
+length of the strip of elastic was longer before and shorter afterwards	1
+vehicle of vehicle was uncovered before and netted with camouflage afterwards	1
+electric conductivity of blender was turned off before and turned on afterwards	1
+composition of bung was loose before and attached afterwards	1
+volume of freezer was full before and empty afterwards	1
+location of measuring cup was missing before and present afterwards	1
+temperature of skillet was cool before and hot afterwards	1
+shape of tape was long before and halved in the middle afterwards	1
+state of head was whole before and exploded afterwards	1
+state of package was closed before and open afterwards	1
+state of voice panel was unfocused before and selected and focused afterwards	1
+form of body was upright before and kneeled down afterwards	1
+wetness of fir was dry before and watered afterwards	1
+state of mark was on floor before and gone afterwards	1
+equipment of equipment was unorganized before and laid in a pattern afterwards	1
+availability of pistol was in inventory before and equipped afterwards	1
+mechanical movement of the chain was moving before and now at rest on the sprocket afterwards	1
+fullness of bucket was fuller before and emptier afterwards	1
+length of tape was longer before and shorter afterwards	1
+state of the cord was unplugged before and now plugged into your wii's av composite output afterwards	1
+location of soap was in the bottle before and in the water afterwards	1
+state of moss was sought before and purchased afterwards	1
+location of equipment was laying sporadically before and gathered afterwards	1
+location of soap was in a bottle before and in a mixing container afterwards	1
+shape of wire was straight before and shaped like a want afterwards	1
+state of fridge door was open before and closed afterwards	1
+location of ajino moto was in the pantry before and in the pan afterwards	1
+location of hanger was on the table before and being held up in the air afterwards	1
+location of oil was in its place before and in boiling water afterwards	1
+state of mixture was in two parts before and integrated afterwards	1
+smoothie of smoothie was in blender before and in glasses afterwards	1
+state of mixture was without an enhancer before and filled with addition additives afterwards	1
+forming of your spy group was unformed before and now formed afterwards	1
+fullness of bowl was full before and empty afterwards	1
+location of hat was in the vehicle before and on the ground afterwards	1
+weight of elastic was lighter before and heavier afterwards	1
+odor of macaroni was normal smelling before and spicy smelling afterwards	1
+location of water and dish soap was in bucket before and on window afterwards	1
+cleanness of freezer paper was clean before and dirty afterwards	1
