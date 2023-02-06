@@ -37,3 +37,4 @@ python 1_change_file.py
 python 2_simple_eval.py
 ```
 **Results**： 
+<img src="https://github.com/ToneLi/SSKGQA/blob/main/framework.png" width="500"/>
