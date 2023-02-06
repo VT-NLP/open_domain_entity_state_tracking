@@ -67,7 +67,7 @@ bash scripts/predictions_bash.sh
 
 ```
 python 1_change_file.py
-python 2_simple_eval.py
+python 2_simple_eval.py (the input file is prediction_format_constraint_reward_define_0.1.jsonl)
 ```
 
 **5.4-Results**：
