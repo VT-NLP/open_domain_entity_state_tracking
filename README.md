@@ -6,4 +6,9 @@
 4) to build the  entity-attribute knowledge graph by selected entities/attribute knowledge (Data_progress/3_combine_entity_attr_to_graph)
 5) others (how to get the entity/attribute embedding) in step 4).  (Data_progress4_get_E_embedding)
 Note: above file is in the Google Driver [Data progress](https://drive.google.com/file/d/1aNgYVn039msTHOdjKAL0NI8nwY__z82x/view?usp=share_link)
-##
+###  Entity and Attr Selection Building
+In  this section, a pre-trained model  with the triple loss function is used to create the entity and attr selection. the source code is in [selection model](https://drive.google.com/file/d/1OItH-PH0SMG-RCiX4mWKJBh4ZlMawRUr/view?usp=share_link).
+please uses the default parameters in the scripts. How to run? In entity or attr selection model, please run:
+```
+CUDA_VISIBLE_DEVICES=0 python train.py
+```
