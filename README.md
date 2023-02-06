@@ -21,7 +21,7 @@ Full model, please check [KIEST w/o ESC](https://drive.google.com/file/d/1KRPXbi
 ```
 CUDA_VISIBLE_DEVICES=2 python training/run_trainer.py --output_dir=training_output --model_type=t5-large --continue_from_dir=/continue_from_dir --model_name_or_path=t5-large --do_train --train_data_file=data/formatted_for_gpt2/train.jsonl --per_gpu_train_batch_size 8 --per_gpu_eval_batch_size 16 --overwrite_output_dir --length 100 --block_size 300 --save_total_limit 3 --save_steps 5000 --learning_rate 0.00005 --overridden_model_configs '{"resid_pdrop": 0.1, "attn_dropout": 0.1}' --weight_decay 0.0 --num_train_epochs 50 --seed 42
 ```
-Note: the trained checkpoins file is in training_output.
+Note: the trained checkpoinks file is in training_output.
 
 **3.2-Generation**:
 Please get into the 2_KIEST_constraint file  and run,
