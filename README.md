@@ -15,7 +15,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py
 
 ### KIEST w/o ESC
 This is the variants of KIEST without the reward.
-Full model, please check [KIEST w/o ESC](https://drive.google.com/file/d/1KRMVOIBy9eGy_asLMIwZ7fDkv-vWqsuM/view?usp=share_link)
+Full model, please check [KIEST w/o ESC](https://drive.google.com/file/d/1KRPXbiUXOoDWCOvgsHZ9pLPp3Cd8vGLo/view?usp=share_link)
 
 **Train**: please enter the 2_KIEST_constraint and run:
 ```
