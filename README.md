@@ -41,3 +41,10 @@ python 2_simple_eval.py
 
 <img src="https://github.com/VT-NLP/open_domain_entity_state_tracking/blob/main/with_reward.png" width="300"/>
 Note: the BLEU is the BLEU-2, ROUGE is the ROUGE-L.
+
+### Classification Reward:
+get into the 3_reward_clasification and run:
+
+```
+CUDA_VISIBLE_DEVICES=0 python train.py
+```
