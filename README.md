@@ -39,5 +39,5 @@ python 2_simple_eval.py
 
 **Results**：
 
-<img src="https://github.com/VT-NLP/open_domain_entity_state_tracking/blob/main/with_reward.png" width="500"/>
+<img src="https://github.com/VT-NLP/open_domain_entity_state_tracking/blob/main/with_reward.png" width="300"/>
 Note: the BLEU is the BLEU-2, ROUGE is the ROUGE-L.
