@@ -57,20 +57,20 @@ CUDA_VISIBLE_DEVICES=1 python training/run_trainer.py --output_dir=training_outp
 ```
 Note: the trained checkpoins file is in training_output.
 
-**3.2-Generation**:
+**5.2-Generation**:
 Please get into the 4_KIEST_cosntrain_reward file  and run,
 ```
 bash scripts/predictions_bash.sh
 ```
 
-**3.3-Evaluation**： please get into test_our_model, and run:
+**5.3-Evaluation**： please get into test_our_model, and run:
 
 ```
 python 1_change_file.py
 python 2_simple_eval.py
 ```
 
-**3.4-Results**：
+**5.4-Results**：
 
-<img src="https://github.com/VT-NLP/open_domain_entity_state_tracking/blob/main/with_reward.png" width="300"/>
+<img src="https://github.com/VT-NLP/open_domain_entity_state_tracking/blob/main/final.png" width="300"/>
 Note: the BLEU is the BLEU-2, ROUGE is the ROUGE-L.
