@@ -36,5 +36,6 @@ you can change your own paramters in the predictions_bash.sh. The generated file
 python 1_change_file.py
 python 2_simple_eval.py
 ```
+
 **Results**： 
-<img src="https://github.com/ToneLi/SSKGQA/blob/main/framework.png" width="500"/>
+<img src="https://github.com/VT-NLP/open_domain_entity_state_tracking/blob/main/with_reward.png" width="500"/>
