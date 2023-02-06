@@ -30,7 +30,7 @@ bash scripts/predictions_bash.sh
 ```
 you can change your own paramters in the predictions_bash.sh. The generated file 2_KIEST_constraint\data\prediction_format.jsonl is same as the  file test_our_model\prediction_format_wo_ESC.jsonl
 
-**3.3-Evaluation**： please get into test_our_model, and run:
+**3.3-Evaluation**： please get into 6_test_our_model, and run:
 
 ```
 python 1_change_file.py
@@ -63,7 +63,7 @@ Please get into the 4_KIEST_cosntrain_reward file  and run,
 bash scripts/predictions_bash.sh
 ```
 
-**5.3-Evaluation**： please get into test_our_model, and run:
+**5.3-Evaluation**： please get into 6_test_our_model, and run:
 
 ```
 python 1_change_file.py
