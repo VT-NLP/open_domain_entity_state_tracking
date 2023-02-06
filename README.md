@@ -49,7 +49,7 @@ get into the 3_reward_clasification and run:
 CUDA_VISIBLE_DEVICES=0 python train.py
 ```
 ### 5-KIEST:
-
+Full files please check [4_KIEST_cosntrain_reward](https://drive.google.com/file/d/1CtWmN0q5gSLGiN2Q3WRW8JxNBggOf8j0/view?usp=share_link)
 
 **5.1-Train**: please enter the 4_KIEST_cosntrain_reward and run:
 ```
