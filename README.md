@@ -1,5 +1,5 @@
-###  This is the source code for open_domain_entity_state_tracking
-#### Data Progress
+##  This is the source code for open_domain_entity_state_tracking
+### Data Progress
 1) to correct the data in OpenPI (Data_progress/0_Data_Correction)
 2) how to retrival the knowledge in the ConcpetNet in hop-N (Data_progress/1_get_kowledge_from_KG)
 3) to create two selections (entity selection, attribute selection) (Data_progress/2_selection_model)
