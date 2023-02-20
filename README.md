@@ -2,7 +2,9 @@
 
 ###  package version
 python 3.6.5
+
 torch version: 1.4.0+cu100
+
 transformers :4.1.1
 
 ### 1-Data Progress
