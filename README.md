@@ -1,4 +1,10 @@
 ##  This is the source code for open_domain_entity_state_tracking
+
+###  package version
+python 3.6.5
+torch version: 1.4.0+cu100
+transformers :4.1.1
+
 ### 1-Data Progress
 1) to correct the data in OpenPI (Data_progress/0_Data_Correction)
 2) how to retrival the knowledge in the ConcpetNet in hop-N (Data_progress/1_get_kowledge_from_KG)
