@@ -1,6 +1,9 @@
 ##  This is the source code for open_domain_entity_state_tracking
 
 ###  package version
+
+NVIdIa Quadro rTX 8000 48G
+
 python 3.6.5
 
 torch version: 1.4.0+cu100
